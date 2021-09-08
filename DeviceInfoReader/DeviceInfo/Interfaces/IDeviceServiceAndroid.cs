@@ -5,7 +5,6 @@ namespace DeviceInfoReader.DeviceInfo.Interfaces
 {
 	public interface IDeviceServiceAndroid
 	{
-		string GetDisplayLanguage();
 		string GetOSVersion();
 		string GetVersionRelease();
 		string GetBuildVersionCode();

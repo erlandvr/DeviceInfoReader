@@ -13,11 +13,6 @@ namespace DeviceInfoReader.Droid.DeviceInfo
 {
 	public class DeviceInfoService : IDeviceServiceAndroid
 	{
-		public string GetDisplayLanguage()
-		{
-			return "";
-		}
-
 		public string GetOSVersion()
 		{
 			return Build.VERSION.SdkInt.ToString();
