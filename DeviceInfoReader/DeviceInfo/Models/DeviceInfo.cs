@@ -16,9 +16,9 @@ namespace DeviceInfoReader.DeviceInfo.Models
         public string OSVersion { get; set; }
         public string VersionNumber { get; set; }
         public string VersionName { get; set; }
-        public DevicePlatform Platform { get; set; }
-        public DeviceIdiom Idiom { get; set; }
-        public DeviceType DeviceType { get; set; }
+        public string Platform { get; set; }
+        public string Idiom { get; set; }
+        public string DeviceType { get; set; }
         public string AppName { get; set; }
         public string PackageName { get; set; }
         public string AppVersion { get; set; }
@@ -31,8 +31,7 @@ namespace DeviceInfoReader.DeviceInfo.Models
         public string TimeZone { get; set; }
         public TimeSpan UtcOffset { get; set; }
         public double TotalDeviceMemoryInMb { get; set; }
-        public double FreeDevcieMemoryInMb { get; set; }
-        public long AvailableDeviceMemory { get; set; }
+        public double FreeDeviceMemoryInMb { get; set; }
         public string UsedDeviceMemoryInPercentage { get; set; }
         
         // public int VersionMajor { get; set; }

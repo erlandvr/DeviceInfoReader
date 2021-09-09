@@ -43,9 +43,9 @@ namespace DeviceInfoReader.DeviceInfo
 			d.Model = device.Model;
 			d.Manufacturer = device.Manufacturer;
 			d.DeviceName = device.Name;
-			d.Platform = device.Platform;
-			d.Idiom = device.Idiom;
-			d.DeviceType = device.DeviceType;
+			d.Platform = device.Platform.ToString();
+			d.Idiom = device.Idiom.ToString();
+			d.DeviceType = GetDeviceType();
 
 			d.AppName = AppInfo.Name;
 			d.PackageName = AppInfo.PackageName;
@@ -66,8 +66,7 @@ namespace DeviceInfoReader.DeviceInfo
 			
 			//Storage memory
 			d.TotalDeviceMemoryInMb = GetTotalMemory();
-			d.FreeDevcieMemoryInMb = GetFreeMemory();
-			d.AvailableDeviceMemory = GetAvailablePhysicalMemoryInBytes();
+			d.FreeDeviceMemoryInMb = GetFreeMemory();
 			d.UsedDeviceMemoryInPercentage = GetUsedMemoryPercentage();
 			
 			//Cpu usage?
@@ -83,6 +82,18 @@ namespace DeviceInfoReader.DeviceInfo
 					return "Portrait";
 				case DisplayOrientation.Landscape:
 					return "Landscape";
+				default: return "Unknown";
+			}
+		}
+
+		private string GetDeviceType()
+		{
+			switch (device.DeviceType)
+			{
+				case DeviceType.Physical:
+					return "Physical";
+				case DeviceType.Virtual:
+					return "Virtual";
 				default: return "Unknown";
 			}
 		}
@@ -138,11 +149,6 @@ namespace DeviceInfoReader.DeviceInfo
 		private double GetFreeMemory()
 		{
 			return _deviceMemory.FreeMegaBytes;
-		}
-
-		private long GetAvailablePhysicalMemoryInBytes()
-		{
-			return _deviceMemory.AvailableBytes;
 		}
 
 		private string GetUsedMemoryPercentage()

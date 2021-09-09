@@ -33,7 +33,7 @@ namespace DeviceInfoReader.Droid.DeviceInfo
 			return new DeviceMemoryStruct()
 			{
 				TotalBytes = Environment.RootDirectory.TotalSpace,
-				FreeBytes = Environment.RootDirectory.TotalSpace
+				FreeBytes = Environment.RootDirectory.FreeSpace
 			};
 		}
 	}
