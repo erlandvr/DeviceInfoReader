@@ -12,19 +12,17 @@ namespace DeviceInfoReader
 {
 	public partial class MainPage : ContentPage
 	{
-		private readonly IDeviceServiceAndroid _deviceServiceAndroid = DependencyService.Get<IDeviceServiceAndroid>();
-		private readonly IDeviceInfoService _deviceInfoService = new DeviceInfoService();
-
 		public MainPage()
 		{
 			InitializeComponent();
+			App.Current.MainPage = new NavigationPage();
 		}
 
-		private void Button_OnClicked(object sender, EventArgs e)
+		private async void Button_OnClicked(object sender, EventArgs e)
 		{
-			var deviceInfo = _deviceInfoService?.GetDeviceInfo();
-			(sender as Button).Text = $"Congrats on pressing a button";
-			ResponseLabel.Text = $"{deviceInfo}";
+			await App.Current.MainPage.Navigation.PushModalAsync(new DeviceInfoPage());
 		}
+
+		protected override bool OnBackButtonPressed() => base.OnBackButtonPressed();
 	}
 }

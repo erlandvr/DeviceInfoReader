@@ -9,11 +9,6 @@
 				Clicked="Button_OnClicked"
 				Padding="30,10,30,10"
 				Text="Get DeviceInformation" />
-			<Label
-				LineBreakMode="WordWrap"
-				Padding="30,10,30,10"
-				x:Name="ResponseLabel" />
 		</StackLayout>
 	</ScrollView>
-
 </ContentPage>
