@@ -1,5 +1,3 @@
-using VhveMatrix.VhveMatrix.Models.TravellerFlow.Flows;
-
 namespace VhveMatrix.VhveMatrix.Enums
 {
 	public enum TravellerFlow

@@ -7,10 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="VhveMatrix\Handlers" />
     <Folder Include="VhveMatrix\Interfaces" />
+    <Folder Include="VhveMatrix\Models" />
   </ItemGroup>
 </Project>

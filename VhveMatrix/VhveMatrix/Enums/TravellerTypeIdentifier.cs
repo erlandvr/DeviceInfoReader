@@ -11,6 +11,5 @@ namespace VhveMatrix.VhveMatrix.Enums
 		TCN_VE_Member_of_family = 6003,
 		TCN_VE_Right_of_free_movement = 6004,
 		TCN_VH_Default = 6005,
-		Facilitated_transit_document_holder = 6007, //TBD
 	}
 }
