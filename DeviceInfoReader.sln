@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceInfoReader", "DeviceI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VHVEMatrix", "VHVEMatrix\VHVEMatrix.csproj", "{CADEB266-6C8B-4DDB-9F6A-6A9FD295A691}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VHVEMatrix2.SQliteDB.Create", "VHVEMatrix2.SQliteDB.Create\VHVEMatrix2.SQliteDB.Create.csproj", "{5A39EA67-E0D5-43D5-BEE4-429255447437}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VHVEMatrix.SQliteDB.Create", "VHVEMatrix.SQliteDB.Create\VHVEMatrix.SQliteDB.Create.csproj", "{5A39EA67-E0D5-43D5-BEE4-429255447437}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
