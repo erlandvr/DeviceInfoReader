@@ -1,4 +1,4 @@
-namespace VhveMatrix.VhveMatrix.Enums
+namespace VHVEMatrix.VhveMatrix.Enums
 {
 	public enum TravellerFlow
 	{

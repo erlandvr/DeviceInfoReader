@@ -4,6 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
     <LangVersion>latest</LangVersion>
+    <RootNamespace>VhveMatrix</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -14,6 +15,5 @@
   <ItemGroup>
     <Folder Include="VhveMatrix\Handlers" />
     <Folder Include="VhveMatrix\Interfaces" />
-    <Folder Include="VhveMatrix\Models" />
   </ItemGroup>
 </Project>

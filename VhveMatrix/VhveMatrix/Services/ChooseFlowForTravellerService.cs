@@ -1,7 +1,7 @@
-using VhveMatrix.VhveMatrix.Enums;
+using VHVEMatrix.VhveMatrix.Enums;
 using Xamarin.Forms;
 
-namespace VhveMatrix.VhveMatrix.Services
+namespace VHVEMatrix.VhveMatrix.Services
 {
 	public class ChooseFlowForTravellerService
 	{

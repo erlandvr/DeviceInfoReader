@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using Xamarin.Forms;
 
-namespace VhveMatrix
+namespace VHVEMatrix
 {
 	public partial class MainPage : ContentPage
 	{
