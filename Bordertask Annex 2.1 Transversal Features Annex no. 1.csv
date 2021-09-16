@@ -1,0 +1,290 @@
+CouKey;CouTextBE;CouCouDeactivate;COUIsEu;COUIsShengen;CouIcaoCode;MtxKey;MtxCouCountry;MtxDTFrom;MtxDTTo;MtxTravellerType;MtxFlagUpdate;MtxDTLastMtxUpdate  ;DTLastTypeChange;MtxWarning
+001;Afghanistan;;;;AFG;;001;;;VH;1;;;
+002;Africa (South);;;;ZAF;;002;;;VH;1;;;
+004;Albania;;;;ALB;;004;;;VH;1;;;W924
+006;Algeria;;;;DZA;;006;;;VH;1;;;
+008;Germany;;True;True;D;;008;;;EU;1;;;
+009;Andorra;;;;AND;;009;;;VE;1;;;W916, W905
+010;Angola;;;;AGO;;010;;;VH;1;;;
+011;Antigua and Barbuda;;;;ATG;;011;;;VE;1;;;
+013;Netherlands West Indies;1999-10-01;;;ANT;;013;;;VH;1;;;
+014;Saudi Arabia;;;;SAU;;014;;;VH;1;;;
+015;Argentina;;;;ARG;;015;;;VE;1;;;
+016;Armenia;;;;ARM;;016;;;VH;1;;;W916
+017;Aruba;1999-10-01;;;ABW;;017;;;VE;1;;;
+018;Australia;;;;AUS;;018;;;VE;1;;;
+019;Austria;;True;True;AUT;;019;;;EU;1;;;
+020;Azerbaijan;;;;AZE;;020;;;VH;1;;;W900
+021;Bahamas;;;;BHS;;021;;;VE;1;;;
+022;Bahrain;;;;BHR;;022;;;VH;1;;;W912
+023;Bangladesh;;;;BGD;;023;;;VH;1;;;
+024;Barbados;;;;BRB;;024;;;VE;1;;;
+026;Belgium;;True;True;BEL;;026;;;EU;1;;;
+027;Belize;;;;BLZ;;027;;;VH;1;;;W902
+028;Benin;;;;BEN;;028;;;VH;1;;;
+029;Bermuda;1999-10-01;;;BMU;;029;;;VH;1;;;
+030;Bhutan;;;;BTN;;030;;;VH;1;;;
+031;Belarus;;;;BLR;;031;;;VH;1;;;
+033;Bolivia;;;;BOL;;033;;;VH;1;;;W910
+035;Botswana;;;;BWA;;035;;;VH;1;;;
+036;Brazil;;;;BRA;;036;;;VE;1;;;
+037;Brunei;;;;BRN;;037;;;VE;1;;;
+038;Bulgaria;;True;;BGR;;038;;;EU;1;;;
+039;Burkina Faso;;;;BFA;;039;;;VH;1;;;
+040;Burundi;;;;BDI;;040;;;VH;1;;;W905
+041;Cayman Islands;1999-10-01;;;CYM;;041;;;VH;1;;;
+042;Cambodia;;;;KHM;;042;;;VH;1;;;
+043;Cameroon;;;;CMR;;043;;;VH;1;;;W905
+044;Canada;;;;CAN;;044;;;VE;1;;;W916, W906
+046;Cape Verde;;;;CPV;;046;;;VH;1;;;
+047;Central African Republic;;;;CAF;;047;;;VH;1;;;
+048;Chile;;;;CHL;;048;;;VE;1;;;W902
+051;China (People's republic);;;;CHN;;051;;;VH;1;;;W925, W926
+052;Cyprus;;True;;CYP;;052;;;EU;1;;;
+054;Colombia;;;;COL;;054;;;VE;1;;;
+055;Union Européenne;1999-10-01;;;EUE;;055;;;VH;1;;;
+056;Comoros;;;;COM;;056;;;VH;1;;;
+057;Congo;;;;COG;;057;;;VH;1;;;
+058;Cook Islands;;;;COK;;058;;;VE;1;;;
+059;Korea (South);;;;KOR;;059;;;VE;1;;;
+061;Korea (North);;;;PRK;;061;;;VH;1;;;
+062;Costa Rica;;;;CRI;;062;;;VE;1;;;W905, W917
+063;Côte d'Ivoire;;;;CIV;;063;;;VH;1;;;W907
+064;Croatia;;True;;HRV;;064;;;EU;1;;;
+065;Cuba;;;;CUB;;065;;;VH;1;;;W902
+067;Denmark;;True;True;DNK;;067;;;EU;1;;;
+068;Djibouti;;;;DJI;;068;;;VH;1;;;W907
+069;Dominica;;;;DMA;;069;;;VE;1;;;W902
+070;Dominican Republic;;;;DOM;;070;;;VH;1;;;
+071;Egypt;;;;EGY;;071;;;VH;1;;;
+072;El Salvador;;;;SLV;;072;;;VE;1;;;W907
+074;United Arab Emirates;;;;ARE;;074;;;VE;1;;;
+075;Ecuador;;;;ECU;;075;;;VH;1;;;
+076;Spain;;True;True;ESP;;076;;;EU;1;;;
+077;Estonia;;True;True;EST;;077;;;EU;1;;;
+078;United States;;;;USA;;078;;;VE;1;;;
+079;Ethiopia;;;;ETH;;079;;;VH;1;;;
+080;Faroe (Faeroe) Islands;1999-10-01;;;FRO;;080;;;VE;1;;;
+081;Fiji;;;;FJI;;081;;;VH;1;;;W916
+082;Finland;;True;True;FIN;;082;;;EU;1;;;
+083;France;;True;True;FRA;;083;;;EU;1;;;
+085;Gabon;;;;GAB;;085;;;VH;1;;;
+086;Gambia (The);;;;GMB;;086;;;VH;1;;;
+087;Georgia;;;;GEO;;087;;;VH;1;;;W924
+089;Ghana;;;;GHA;;089;;;VH;1;;;
+090;Gibraltar;1999-10-01;True;;GIB;;090;;;VE;1;;;
+091;United Kingdom;;True;;GBR;;091;;;VE;1;;;
+092;Greece;;True;True;GRC;;092;;;EU;1;;;
+093;Grenada;;;;GRD;;093;;;VE;1;;;W902
+094;Guam;1999-10-01;;;GUM;;094;;;VE;1;;;
+095;Guatemala;;;;GTM;;095;;;VE;1;;;W907
+096;Guernsey;1999-10-01;;;GGY;;096;;;VH;1;;;
+097;Guinea;;;;GIN;;097;;;VH;1;;;
+098;Guinea (Equatorial);;;;GNQ;;098;;;VH;1;;;W902
+099;Guinea-Bissau;;;;GNB;;099;;;VH;1;;;
+101;Guyana;;;;GUY;;101;;;VH;1;;;
+102;Haiti;;;;HTI;;102;;;VH;1;;;
+105;Honduras;;;;HND;;105;;;VE;1;;;
+106;Hong-Kong (China);1999-10-01;;;HKG;;106;;;VH;1;;;W926
+108;Hungary;;True;True;HUN;;108;;;EU;1;;;
+109;India;;;;IND;;109;;;VH;1;;;
+110;Indonesia;;;;IDN;;110;;;VH;1;;;
+111;Iraq;;;;IRQ;;111;;;VH;1;;;
+112;Iran;;;;IRN;;112;;;VH;1;;;
+113;Ireland;;True;;IRL;;113;;;EU;1;;;
+114;Iceland;;;True;ISL;;114;;;EU;1;;;
+115;Israel;;;;ISR;;115;;;VH;1;;;W924
+116;Italy;;True;True;ITA;;116;;;EU;1;;;
+118;Jamaica;;;;JAM;;118;;;VH;1;;;
+119;Japan;;;;JPN;;119;;;VE;1;;;
+120;Jersey;1999-10-01;;;JEY;;120;;;VH;1;;;
+121;Jordan;;;;JOR;;121;;;VH;1;;;
+122;Kazakhstan;;;;KAZ;;122;;;VH;1;;;W902
+123;Kenya;;;;KEN;;123;;;VH;1;;;W916
+124;Kiribati;;;;KIR;;124;;;VH;1;;;W916
+125;Kuwait;;;;KWT;;125;;;VH;1;;;W916, W908
+126;Kyrgyzstan;;;;KGZ;;126;;;VH;1;;;
+127;Laos;;;;LAO;;127;;;VH;1;;;W902
+128;Lesotho;;;;LSO;;128;;;VH;1;;;
+129;Latvia;;True;True;LVA;;129;;;EU;1;;;
+130;Lebanon;;;;LBN;;130;;;VH;1;;;W908
+131;Liberia;;;;LBR;;131;;;VH;1;;;W902
+132;Libya;;;;LBY;;132;;;VH;1;;;W908
+133;Liechtenstein;;;True;LIE;;133;;;EU;1;;;
+134;Lithuania;;True;True;LTU;;134;;;EU;1;;;
+135;Luxembourg;;True;True;LUX;;135;;;EU;1;;;
+136;Macao;1999-10-01;;;MAC;;136;;;VH;1;;;W925
+137;Madagascar;;;;MDG;;137;;;VH;1;;;
+139;Malaysia;;;;MYS;;139;;;VE;1;;;
+140;Malawi;;;;MWI;;140;;;VH;1;;;
+141;Maldives;;;;MDV;;141;;;VH;1;;;
+142;Mali;;;;MLI;;142;;;VH;1;;;
+143;Malta;;True;True;MLT;;143;;;EU;1;;;W912
+144;Man (Isle of);1999-10-01;;;IMN;;144;;;VE;1;;;
+145;Marocco;;;;MAR;;145;;;VH;1;;;
+146;Marshall Islands;;;;MHL;;146;;;VH;1;;;
+147;Mauritius;;;;MUS;;147;;;VE;1;;;W916
+148;Mauritania;;;;MRT;;148;;;VH;1;;;
+149;Mexico;;;;MEX;;149;;;VE;1;;;
+150;Micronesia;;;;FSM;;150;;;VH;1;;;
+151;Moldova;;;;MDA;;151;;;VH;1;;;W924
+152;Monaco;;;;MCO;;152;;;VE;1;;;W929
+153;Mongolia;;;;MNG;;153;;;VH;1;;;
+154;Mozambique;;;;MOZ;;154;;;VH;1;;;
+155;Myanmar (Burma);;;;MMR;;155;;;VH;1;;;W903, W907
+156;Namibia;;;;NAM;;156;;;VH;1;;;
+157;Nauru;;;;NRU;;157;;;VH;1;;;
+158;Nepal;;;;NPL;;158;;;VH;1;;;
+159;Nicaragua;;;;NIC;;159;;;VE;1;;;W902
+160;Niger;;;;NER;;160;;;VH;1;;;
+161;Nigeria;;;;NGA;;161;;;VH;1;;;
+162;Norway;;;True;NOR;;162;;;EU;1;;;
+163;New Caledonia;1999-10-01;;;NCL;;163;;;VE;1;;;
+166;New Zealand;;;;NZL;;166;;;VE;1;;;
+168;Oman;;;;OMN;;168;;;VH;1;;;
+169;Uganda;;;;UGA;;169;;;VH;1;;;
+170;Uzbekistan;;;;UZB;;170;;;VH;1;;;
+171;Pakistan;;;;PAK;;171;;;VH;1;;;
+172;Panama;;;;PAN;;172;;;VE;1;;;
+173;Papua New Guinea;;;;PNG;;173;;;VH;1;;;
+174;Paraguay;;;;PRY;;174;;;VE;1;;;
+175;Netherlands;;True;True;NLD;;175;;;EU;1;;;
+176;Peru;;;;PER;;176;;;VE;1;;;
+177;Philippines;;;;PHL;;177;;;VH;1;;;
+178;Poland;;True;True;POL;;178;;;EU;1;;;
+179;Puerto Rico;1999-10-01;;;PRI;;179;;;VE;1;;;
+180;Portugal;;True;True;PRT;;180;;;EU;1;;;
+181;Qatar;;;;QAT;;181;;;VH;1;;;
+183;Romania;;True;;ROU;;183;;;EU;1;;;
+184;Russia;;;;RUS;;184;;;VH;1;;;
+185;Rwanda;;;;RWA;;185;;;VH;1;;;
+187;Saint Kitts and Nevis;;;;KNA;;187;;;VE;1;;;
+189;Saint Lucia;;;;LCA;;189;;;VE;1;;;
+190;San Marino;;;;SMR;;190;;;VE;1;;;W929
+192;Saint Vincent and the Grenadines;;;;VCT;;192;;;VE;1;;;
+193;Salomon Islands;;;;SLB;;193;;;VH;1;;;
+194;American Samoa;1999-10-01;;;ASM;;194;;;VE;1;;;
+195;Samoa;;;;WSM;;195;;;VE;1;;;
+198;São Tomé and Príncipe;;;;STP;;198;;;VH;1;;;
+200;Senegal;;;;SEN;;200;;;VH;1;;;
+201;Seychelles;;;;SYC;;201;;;VE;1;;;
+202;Sierra Leone;;;;SLE;;202;;;VH;1;;;
+203;Singapore;;;;SGP;;203;;;VE;1;;;
+204;Slovakia;;True;;SVK;;204;;;EU;1;;;
+205;Slovenia;;True;True;SVN;;205;;;EU;1;;;
+207;Somalia;;;;SOM;;207;;;VH;1;;;W930
+208;Sudan;;;;SDN;;208;;;VH;1;;;
+209;Sri Lanka;;;;LKA;;209;;;VH;1;;;
+210;Sweden;;True;True;SWE;;210;;;EU;1;;;
+211;Switzerland;;;True;CHE;;211;;;VH;1;;;
+213;Suriname;;;;SUR;;213;;;VH;1;;;
+215;Swaziland (eSwatini);;;;SWZ;;215;;;VH;1;;;W916
+216;Syria;;;;SYR;;216;;;VH;1;;;
+217;Tajikistan;;;;TJK;;217;;;VH;1;;;
+219;Taiwan;;;;TWN;;219;;;VH;1;;;W927
+220;Tanzania;;;;TZA;;220;;;VH;1;;;
+221;Chad;;;;TCD;;221;;;VH;1;;;
+222;Ex-Czechoslovakia;1999-10-01;;;CSK;;222;;;VH;1;;;
+223;Czech Republic;;True;True;CZE;;223;;;EU;1;;;
+224;Thailand;;;;THA;;224;;;VH;1;;;
+225;Togo;;;;TGO;;225;;;VH;1;;;
+226;Tonga;;;;TON;;226;;;VE;1;;;
+228;Trinidad and Tobago;;;;TTO;;228;;;VE;1;;;
+229;Tunisia;;;;TUN;;229;;;VH;1;;;
+230;Turkmenistan;;;;TKM;;230;;;VH;1;;;
+231;Turkey;;;;TUR;;231;;;VH;1;;;
+232;Tuvalu;;;;TUV;;232;;;VH;1;;;
+233;Ukraine;;;;UKR;;233;;;VH;1;;;W924
+235;Uruguay;;;;URY;;235;;;VE;1;;;
+236;Vanuatu;;;;VUT;;236;;;VE;1;;;
+237;Vatican (City State), Holy See (the);;;;VAT;;237;;;VE;1;;;W929
+239;Venezuela;;;;VEN;;239;;;VE;1;;;
+240;British Virgin Islands;1999-10-01;;;VGB;;240;;;VE;1;;;
+241;US Virgin Islands;1999-10-01;;;VIR;;241;;;VE;1;;;
+243;Vietnam;;;;VNM;;243;;;VH;1;;;
+247;Ex-Zaire;1999-10-01;;;ZAR;;247;;;VH;1;;;
+248;Zambia;;;;ZMB;;248;;;VH;1;;;
+250;Zimbabwe;;;;ZWE;;250;;;VH;1;;;
+251;Bosnia and Herzegovina;;;;BIH;;251;;;VH;1;;;W924
+252;Eritrea;;;;ERI;;252;;;VH;1;;;
+253;Yugoslavia (Serbia-Montenegro-...);2003-10-07;;;YUG;;253;;;VH;1;;;
+254;Montenegro;1999-10-01;;;MNE;;254;;;VH;1;;;
+255;Macedonia ( North) (the former Yugoslav Republic of);;;;MKD;;255;;;VH;1;;;W924
+256;Congo (Democratic Republic of);;;;COD;;256;;;VH;1;;;W928
+257;Yemen (Republic of);;;;YEM;;257;;;VH;1;;;
+258;Palau;;;;PLW;;258;;;VE;1;;;
+259;Antarctica;;;;ATA;;259;;;VH;1;;;
+260;British Indian Ocean Territory;1999-10-01;;;IOT;;260;;;VE;1;;;
+261;Mariana Islands (Northern);1999-10-01;;;MNP;;261;;;VH;1;;;
+262;Turks and Caicos Islands;1999-10-01;;;TCA;;262;;;VE;1;;;
+263;United States Minor Outlying Islands;1999-10-01;;;UMI;;263;;;VE;1;;;
+264;Anguilla;1999-10-01;;;AIA;;264;;;VE;1;;;
+265;Montserrat;1999-10-01;;;MSR;;265;;;VE;1;;;
+266;Cocos (Keeling) Islands;1999-10-01;;;CCK;;266;;;VE;1;;;
+267;Christmas Islands;1999-10-01;;;CXR;;267;;;VE;1;;;
+268;Heard Island and McDonald Islands;1999-10-01;;;HMD;;268;;;VH;1;;;
+269;Norfolk Island;1999-10-01;;;NFK;;269;;;VE;1;;;
+270;Greenland;1999-10-01;;;GRL;;270;;;VE;1;;;
+271;Falkland Islands (Malvinas);1999-10-01;;;FLK;;271;;;VE;1;;;
+V;Guiana (French);1999-10-01;True;;GUF;;272;;;VH;1;;;
+273;Guadeloupe;1999-10-01;True;;GLP;;273;;;VH;1;;;
+274;Martinique;1999-10-01;True;;MTQ;;274;;;VH;1;;;
+275;Saint Pierre and Miquelon;1999-10-01;;;SPM;;275;;;VE;1;;;
+276;Réunion;1999-10-01;True;;REU;;276;;;VH;1;;;
+277;Southern and Antarctic Lands (French);1999-10-01;;;ATF;;277;;;VE;1;;;
+278;Mayotte;1999-10-01;True;;MYT;;278;;;VH;1;;;
+279;Sahara (Western);1999-10-01;;;ESH;;279;;;VH;1;;;
+280;Bouvet Island;1999-10-01;;;BVT;;280;;;VH;1;;;
+281;Svalbard and Jan Mayen;1999-10-01;;;SJM;;281;;;VE;1;;;
+282;Niue;;;;NIU;;282;;;VE;1;;;
+283;Pitcairn Islands;1999-10-01;;;PCN;;283;;;VE;1;;;
+284;Tokelau;1999-10-01;;;TKL;;284;;;VE;1;;;
+285;Saint Helena, Ascension and Tristan da Cunha;1999-10-01;;;SHN;;285;;;VE;1;;;
+286;East Timor;;;;TLS;;286;;;VE;1;;;
+287;Polynesia (French);1999-10-01;;;PYF;;287;;;VE;1;;;
+288;Wallis and Futuna;1999-10-01;;;WLF;;288;;;VE;1;;;
+289;Serbie et Monténégro;2006-06-03;;;SRB;;289;;;VH;1;;;
+901;Apatride;1999-10-01;;;XXA;;901;;;VH;1;;;W931, W933, W934
+904;Inconnu;1999-10-01;;;XXX;;904;;;VH;1;;;
+905;ONU - Réfugié;1999-10-01;;;XXB;;905;;;VH;1;;;
+907;Palestine;;;;PSE;;907;;;VH;1;;;
+908;Montenegro;;;;MNE;;908;;;VH;1;;;W924
+909;Serbia;;;;SRB;;909;;;VH;1;;;W924, W932
+910;Äland Islands;;True;True;ALA;;910;;;VE;1;;;
+911;Georgia (South) and the Sandwich Islands (South);;;;SGS;;911;;;VE;1;;;
+912;Saint Barthélemy;2018-04-12;;;BLM;;912;;;VE;1;;;
+913;Saint Martin;2018-04-12;True;;MAF;;913;;;VH;1;;;
+914;Kosovo;;;;RKS;;914;;;VH;1;;;
+916;Sudan (South);;;;SSD;;916;;;VH;1;;;
+918;Curaçao;2012-02-24;;;CUW;;918;;;VE;1;;;
+919;Sint Maarten;2012-02-24;;;SXM;;919;;;VE;1;;;
+920;Bonaire, Sint Eustatius and Saba;2015-08-19;;;BES;;920;;;VH;1;;;
+922;Neutral Zone;2019-08-09;;;NTZ;;922;;;VH;1;;;
+923;United Nations Organization (UNO);2019-08-09;;;UNO;;923;;;VH;1;;;
+924;United Nations specialized agency (UNA);2019-08-09;;;UNA;;924;;;VH;1;;;
+925;African Development Bank (ADB);2019-08-09;;;XBA;;925;;;VH;1;;;
+926;African Export-Import Bank (AFREXIM bank);2019-08-09;;;XIM;;926;;;VH;1;;;
+927;Caribbean Community (CARICOM);2019-08-09;;;XCC;;927;;;VH;1;;;
+928;Council of Europe (CoE);2019-08-09;;;XCE;;928;;;VH;1;;;
+929;Common Market for Eastern and Southern Africa (COMESA);2019-08-09;;;XCO;;929;;;VH;1;;;
+930;Economic Community of West African States (ECOWAS);2019-08-09;;;XEC;;930;;;VH;1;;;
+931;International Criminal Police Organization (INTERPOL);2019-08-09;;;XPO;;931;;;VH;1;;;
+932;Sovereign Military Order of Malta;2019-08-09;;;XOM;;932;;;VH;1;;;
+933;Southern African Development Community (SADC);2019-08-09;;;XDC;;933;;;VH;1;;;
+934;Réfugié - autre que le statut défini par l'ONU;2019-08-09;;;XXC;;934;;;VH;1;;;
+935;British Overseas Territories Citizen;2019-08-09;;;GBD;;935;;;VH;1;;;
+936;British National (Overseas);2019-08-09;;;GBN;;936;;;VH;1;;;
+937;British Overseas Citizen;2019-08-09;;;GBO;;937;;;VH;1;;;
+938;British Protected person;2019-08-09;;;GBP;;938;;;VH;1;;;
+939;British Subject;2019-08-09;;;GBS;;939;;;VH;1;;;
+940;United Nations Interim Administration Mission in Kosovo (UNMIK);2019-08-09;;;UNK;;940;;;VH;1;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
